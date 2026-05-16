@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Training artifacts
+trainer_output/
+wandb/
+model/
+model_*/
+
+# Local env / IDE
+.venv/
+.env
+.idea/
+.vscode/
+
+# Analysis-only files (not part of submission)
+analyze.py
+predictions_val_*.txt
+predictions_test_*.txt

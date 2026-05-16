@@ -1,0 +1,7 @@
+transformers>=4.46.0
+datasets>=2.20.0
+torch>=2.4.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+wandb>=0.17.0
+accelerate>=0.34.0
